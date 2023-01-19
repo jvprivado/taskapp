@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/core": "^5.10.0",
+    "@mantine/dates": "^5.10.0",
+    "@mantine/hooks": "^5.10.0",
+    "@tabler/icons": "^1.119.0",
+    "dayjs": "^1.11.7",
+    "firebase": "^9.15.0",
+    "next": "^13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vercel": "^28.12.4"
+  },
+  "name": "react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

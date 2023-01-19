@@ -1,0 +1,26 @@
+Arguments: 
+  /home/vj/.nvm/versions/node/v18.13.0/bin/node /home/vj/.nvm/versions/node/v18.13.0/bin/yarn add next
+
+PATH: 
+  /home/vj/.nvm/versions/node/v18.13.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: C03723B2347F0000:error:1C800066:Provider routines:ossl_gcm_stream_update:cipher operation failed:../deps/openssl/openssl/providers/implementations/ciphers/ciphercommon_gcm.c:320:
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
